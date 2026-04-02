@@ -29,9 +29,11 @@ reverse engineering · SDR · security research · protocol design · jurimetric
 ```
  
 ---
- 
+<!-- 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+-->
+<img src="https://komarev.com/ghpvc/?username=lokkju" height="1" />
 
 ---
