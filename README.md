@@ -30,9 +30,8 @@ reverse engineering · SDR · security research · protocol design · jurimetric
  
 ---
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokkju&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=transparent&icon_color=6e7681&text_color=6e7681" height="1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokkju&layout=compact&hide_border=true&hide_title=true&theme=transparent&text_color=6e7681" height="150" />
-</p>
- 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 ---
