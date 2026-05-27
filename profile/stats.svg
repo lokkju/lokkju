@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Loki Coyote's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 116, Total Commits  (last year) : 610, Total PRs: 26, Total Issues: 101, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 117, Total Commits  (last year) : 610, Total PRs: 26, Total Issues: 101, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 103.85793571910926;
+        stroke-dashoffset: 103.70683586322636;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >116</text>
+      >117</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
